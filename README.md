@@ -1,1 +1,1 @@
-# -NUEZY-And-Alumni-Management-System
+# NUEZY-And-Alumni-Management-System
