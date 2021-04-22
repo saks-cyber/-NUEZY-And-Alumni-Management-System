@@ -27,3 +27,9 @@ To run the Nodejs :
 Step 1 - Run npm install to install all modules listed as dependencies in package.json
 
 Step 2 - Run node index to start the server
+
+_____________________
+
+## Sample Images
+
+![Nuezy1](https://github.com/saks-cyber/NUEZY-And-Alumni-Management-System/blob/main/Screenshots/nuezy1.jpeg "Optional Title")
