@@ -32,4 +32,10 @@ _____________________
 
 ## Sample Images
 
-![Nuezy1](https://github.com/saks-cyber/NUEZY-And-Alumni-Management-System/blob/main/Screenshots/nuezy1.jpeg "Optional Title")
+![Nuezy1](https://github.com/saks-cyber/NUEZY-And-Alumni-Management-System/blob/main/Screenshots/nuezy1.jpeg "image")
+
+![Nuezy1](https://github.com/saks-cyber/NUEZY-And-Alumni-Management-System/blob/main/Screenshots/nuezy2.jpeg "image")
+
+![Alumni1](https://github.com/saks-cyber/NUEZY-And-Alumni-Management-System/blob/main/Screenshots/homepage.png "image")
+
+![Alumni1](https://github.com/saks-cyber/NUEZY-And-Alumni-Management-System/blob/main/Screenshots/login.png "image")
