@@ -16,8 +16,8 @@ const Edit_Profile = () => {
         const history = useHistory()
 
 
-  let url = 'http://localhost:5000/api/user/edit/'+currentUser.email
-  async function handleSubmit(e){
+  let url = 'http://localhost:5000/api/user/edit/'+currentUser.email //api url
+  async function handleSubmit(e){     //function to handle submit
    e.preventDefault();
   
    const data = {currloc:currloc.current.value,work:working.current.value,position:position.current.value,fb:fb.current.value,insta:insta.current.value,twt:twt.current.value };
@@ -41,6 +41,7 @@ const Edit_Profile = () => {
     
 },[]);
 
+//component to edit the user details
  return (
   <div>
      <form onSubmit={handleSubmit}>
